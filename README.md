@@ -1,2 +1,2 @@
 # ubuntu
-FROM ubuntu:16.04-tz.8
+FROM ubuntu:14.04-tz.8
